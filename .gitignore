@@ -4,6 +4,7 @@ __pycache__/
 *.pyd
 *.log
 *.sqlite3
+*test_mongo.py
 
 .venv/
 .env
